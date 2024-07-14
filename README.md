@@ -25,8 +25,7 @@ This Telegram bot allows users to play a Spin the Wheel game and a Tap Tap game 
 
 3. Set your Telegram bot token in the `main` function:
     ```python
-    updater = Updater(HTTP API:
-7077733670:AAEyDBL7GmStXZLyeUtHe1XOBUjKIYcxfDg)
+    updater = Updater 7077733670:AAEyDBL7GmStXZLyeUtHe1XOBUjKIYcxfDg
     ```
 
 4. Run the bot:
