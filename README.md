@@ -1,4 +1,4 @@
-# Mr. Tradexbet Telegram Bot
+# Tradexbet Telegram Bot
 
 This Telegram bot allows users to play a Spin the Wheel game and a Tap Tap game to mine TXB coins. Users can deposit 1 USDT to participate in the Spin the Wheel game, and they can also mine TXB coins by playing the Tap Tap game.
 
@@ -15,7 +15,7 @@ This Telegram bot allows users to play a Spin the Wheel game and a Tap Tap game 
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/mr-tradexbet-bot.git
-    cd mr-tradexbet-bot
+    cd Tradexbetofficial_bot
     ```
 
 2. Install dependencies:
@@ -25,7 +25,8 @@ This Telegram bot allows users to play a Spin the Wheel game and a Tap Tap game 
 
 3. Set your Telegram bot token in the `main` function:
     ```python
-    updater = Updater("YOUR_TELEGRAM_BOT_TOKEN")
+    updater = Updater(HTTP API:
+7077733670:AAEyDBL7GmStXZLyeUtHe1XOBUjKIYcxfDg)
     ```
 
 4. Run the bot:
